@@ -2,7 +2,7 @@
  * Copyright (C) 2017 Lukas Wiest
  * v1.2.1
  */
-package de.wiest_lukas.lib;
+package de.siling.jaad;
 
 import net.sourceforge.jaad.aac.AACException;
 import net.sourceforge.jaad.aac.Decoder;
